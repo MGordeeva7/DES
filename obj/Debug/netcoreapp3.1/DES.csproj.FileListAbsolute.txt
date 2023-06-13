@@ -1,0 +1,14 @@
+C:\Users\1\Downloads\DES-master\DES-master\DES\bin\Debug\netcoreapp3.1\DES.exe
+C:\Users\1\Downloads\DES-master\DES-master\DES\bin\Debug\netcoreapp3.1\DES.deps.json
+C:\Users\1\Downloads\DES-master\DES-master\DES\bin\Debug\netcoreapp3.1\DES.runtimeconfig.json
+C:\Users\1\Downloads\DES-master\DES-master\DES\bin\Debug\netcoreapp3.1\DES.runtimeconfig.dev.json
+C:\Users\1\Downloads\DES-master\DES-master\DES\bin\Debug\netcoreapp3.1\DES.dll
+C:\Users\1\Downloads\DES-master\DES-master\DES\bin\Debug\netcoreapp3.1\DES.pdb
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.AssemblyInfo.cs
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.dll
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.pdb
+C:\Users\1\Downloads\DES-master\DES-master\DES\obj\Debug\netcoreapp3.1\DES.genruntimeconfig.cache
